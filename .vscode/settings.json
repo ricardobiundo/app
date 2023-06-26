@@ -1,0 +1,7 @@
+{
+    "python.venvPath": "/home/codespace/app/backend/venv/bin/python",
+    "python.pythonPath": "/home/codespace/app/backend/venv/bin/python",
+    "python.linting.pylintPath": "/home/codespace/app/backend/venv/bin/pylint",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+}
